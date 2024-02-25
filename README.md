@@ -1,4 +1,4 @@
-# Amazon Sales Analysis Project
+# Amazon Sales Analysis in Power BI
 ## Overview:
 This project focuses on analyzing the Amazon Sales Dataset using Power BI, aiming to gain valuable insights into product associations and customer purchasing behaviors. The implemented interactive dashboard enhances data visualization, providing a user-friendly interface for comprehensive analysis.
 
